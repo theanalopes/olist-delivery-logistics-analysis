@@ -105,7 +105,11 @@ These indicators provide a quick overview of the overall logistics performance.
 
 ## Dashboard
 
-The final Power BI dashboard combines the main KPIs and analyses in one view.
+The final Power BI dashboard combines the main KPIs and analyses in one view.## Interactive Power BI Dashboard
+
+The Power BI dashboard is available online and can be explored interactively.
+
+https://app.powerbi.com/groups/me/reports/300401ef-987d-405b-ad3d-a95d8f2bcb6e/4321868b2ac448ca2c28?experience=power-bi
 
 ### Dashboard Preview
 
@@ -332,7 +336,11 @@ Ces indicateurs permettent d'avoir rapidement une vue d'ensemble de la performan
 
 ## Tableau de bord
 
-Le tableau de bord Power BI final regroupe les principaux KPI et les différentes analyses.
+Le tableau de bord Power BI final regroupe les principaux KPI et les différentes analyses.## Tableau de bord Power BI interactif
+
+Le tableau de bord Power BI est disponible en ligne et peut être consulté de manière interactive.
+
+https://app.powerbi.com/groups/me/reports/300401ef-987d-405b-ad3d-a95d8f2bcb6e/4321868b2ac448ca2c28?experience=power-bi
 
 ### Aperçu du tableau de bord
 
